@@ -356,7 +356,7 @@ video {
 #company-image {
   margin-top: 50px;
   height: 500px;
-  background-image: url("/assets/img/1728172850774593.jpg");
+  background-image: url("../img/1728172850774593.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -453,13 +453,13 @@ video {
 }
 .strategy-image {
   width: 350px;
-  background-image: url("/assets/img/1728164556118193.png");
+  background-image: url("../img/1728164556118193.png");
   background-size: cover;
   background-position: center;
   height: 350px;
 }
 .strategy:nth-child(2) .strategy-image {
-  background-image: url("/assets/img/1728164542512678.png");
+  background-image: url("../img/1728164542512678.png");
 }
 .strategy-text {
   width: calc(100% - 450px);
@@ -504,7 +504,7 @@ video {
 }
 #contact {
   height: 550px;
-  background-image: url("/assets/img/bg-contact.png");
+  background-image: url("../img/bg-contact.png");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -895,7 +895,7 @@ footer label {
   flex-direction: row-reverse;
 }
 .coorperate-bg.contact {
-  background-image: url("/assets/img/contact-bg.jpg");
+  background-image: url("../img/contact-bg.jpg");
 }
 #form-section {
   margin-bottom: 40px;
@@ -1019,7 +1019,7 @@ footer label {
   height: 500px;
 }
 .coorperate-bg.service {
-  background-image: url("/assets/img/service-bg.jpg");
+  background-image: url("../img/service-bg.jpg");
 }
 #service-cards .container {
   display: flex;
@@ -1072,7 +1072,7 @@ footer label {
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 .coorperate-bg.project {
-  background-image: url("/assets/img/project-bg.jpg");
+  background-image: url("../img/project-bg.jpg");
   width: 100%;
 }
 #pills {
